@@ -121,7 +121,7 @@ flyctl deploy
 
 Streamlit Cloud does not support Playwright or headless Chromium.
 
-Recommended: Use Fly.io, Render, or a local Docker container for full JavaScript-rendered page support.
+Hence using fly.io , in case of issues with fly.io due to server constrain would suggest running locally
 
 ## Configuration
 
