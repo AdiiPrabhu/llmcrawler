@@ -2,6 +2,11 @@
 
 An intelligent agent that recursively crawls a company website, uses GPT-4 to identify team or employee-related pages, and extracts structured employee data like name, title, and location.
 
+
+https://github.com/user-attachments/assets/a2176b9c-3a8f-4a8f-8c8a-41c93165b387
+
+
+
 ## Features
 
 - Recursive web crawler with depth + page limits
