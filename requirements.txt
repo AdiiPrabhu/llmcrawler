@@ -1,0 +1,10 @@
+streamlit
+openai
+langchain
+beautifulsoup4
+playwright
+tldextract
+pandas
+certifi
+python-dotenv
+langchain_community
